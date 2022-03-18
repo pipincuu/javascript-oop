@@ -1,3 +1,4 @@
+/* COntoh belajar di kelas tentang OOP */
 class Manusia {
     constructor(nama, alamat, namaPanggilan, tahunLahir){
         this.nama = nama;
